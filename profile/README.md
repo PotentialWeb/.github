@@ -1,12 +1,7 @@
 ## Potential.co
 
-<!--
+We see a world of abundance... abundant money, time and energy.<br />
+The talent to create this world is everywhere, the opportunity isn’t.<br />
+What can we do for humanity if more talent found its rightful seat?
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://guides.github.com/features/mastering-markdown/)
--->
+[Website](https://potential.co) | [Twitter](https://twitter.com/potential_co) | [LinkedIn](https://linkedin.com/company/potential-co)
